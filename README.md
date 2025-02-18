@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## details
+- android language : kotlin
+- platforms : Android, iOS
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
